@@ -1,0 +1,24 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+    color: white;
+}
+
+.score1,.score2{
+    font-size: 90px;
+    font-family: 'Cursed Timer ULil';
+    font-style: normal;
+    font-weight: 400;
+    color:red;
+    background-color: black;
+    margin: 20px;
+    width:120px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
